@@ -5,4 +5,8 @@ have changes
 Wow!! Changes
 new line
 
+<<<<<<< HEAD
 gg
+=======
+Hi.... Programmer Rayhan
+>>>>>>> master
